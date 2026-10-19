@@ -1,0 +1,809 @@
+{
+  "version": "beta_1_7_3",
+  "textures": [
+    {
+      "source": "block/grass_block_top.png",
+      "tileX": 0,
+      "tileY": 0
+    },
+    {
+      "source": "block/stone.png",
+      "tileX": 1,
+      "tileY": 0
+    },
+    {
+      "source": "block/dirt.png",
+      "tileX": 2,
+      "tileY": 0
+    },
+    {
+      "source": "block/grass_block_side.png",
+      "tileX": 3,
+      "tileY": 0
+    },
+    {
+      "source": "block/oak_planks.png",
+      "tileX": 4,
+      "tileY": 0
+    },
+    {
+      "source": "block/stone_slab_side.png",
+      "tileX": 5,
+      "tileY": 0
+    },
+    {
+      "source": "block/stone_slab_top.png",
+      "tileX": 6,
+      "tileY": 0
+    },
+    {
+      "source": "block/bricks.png",
+      "tileX": 7,
+      "tileY": 0
+    },
+    {
+      "source": "block/tnt_side.png",
+      "tileX": 8,
+      "tileY": 0
+    },
+    {
+      "source": "block/tnt_top.png",
+      "tileX": 9,
+      "tileY": 0
+    },
+    {
+      "source": "block/tnt_bottom.png",
+      "tileX": 10,
+      "tileY": 0
+    },
+    {
+      "source": "block/cobweb.png",
+      "tileX": 11,
+      "tileY": 0
+    },
+    {
+      "source": "block/poppy.png",
+      "tileX": 12,
+      "tileY": 0
+    },
+    {
+      "source": "block/dandelion.png",
+      "tileX": 13,
+      "tileY": 0
+    },
+    {
+      "source": "block/oak_sapling.png",
+      "tileX": 15,
+      "tileY": 0
+    },
+    {
+      "source": "block/cobblestone.png",
+      "tileX": 0,
+      "tileY": 1
+    },
+    {
+      "source": "block/bedrock.png",
+      "tileX": 1,
+      "tileY": 1
+    },
+    {
+      "source": "block/sand.png",
+      "tileX": 2,
+      "tileY": 1
+    },
+    {
+      "source": "block/gravel.png",
+      "tileX": 3,
+      "tileY": 1
+    },
+    {
+      "source": "block/oak_log.png",
+      "tileX": 4,
+      "tileY": 1
+    },
+    {
+      "source": "block/oak_log_top.png",
+      "tileX": 5,
+      "tileY": 1
+    },
+    {
+      "source": "block/iron_block.png",
+      "tileX": 6,
+      "tileY": 1
+    },
+    {
+      "source": "block/gold_block.png",
+      "tileX": 7,
+      "tileY": 1
+    },
+    {
+      "source": "block/diamond_block.png",
+      "tileX": 8,
+      "tileY": 1
+    },
+    {
+      "source": "block/red_mushroom.png",
+      "tileX": 12,
+      "tileY": 1
+    },
+    {
+      "source": "block/brown_mushroom.png",
+      "tileX": 13,
+      "tileY": 1
+    },
+    {
+      "source": "block/gold_ore.png",
+      "tileX": 0,
+      "tileY": 2
+    },
+    {
+      "source": "block/iron_ore.png",
+      "tileX": 1,
+      "tileY": 2
+    },
+    {
+      "source": "block/coal_ore.png",
+      "tileX": 2,
+      "tileY": 2
+    },
+    {
+      "source": "block/bookshelf.png",
+      "tileX": 3,
+      "tileY": 2
+    },
+    {
+      "source": "block/mossy_cobblestone.png",
+      "tileX": 4,
+      "tileY": 2
+    },
+    {
+      "source": "block/obsidian.png",
+      "tileX": 5,
+      "tileY": 2
+    },
+    {
+      "source": "block/grass_block_side_overlay.png",
+      "tileX": 6,
+      "tileY": 2
+    },
+    {
+      "source": "block/grass.png",
+      "tileX": 7,
+      "tileY": 2
+    },
+    {
+      "source": "block/grass_block_top.png",
+      "tileX": 8,
+      "tileY": 2
+    },
+    {
+      "source": "block/crafting_table_top.png",
+      "tileX": 11,
+      "tileY": 2
+    },
+    {
+      "source": "block/furnace_front.png",
+      "tileX": 12,
+      "tileY": 2
+    },
+    {
+      "source": "block/furnace_side.png",
+      "tileX": 13,
+      "tileY": 2
+    },{
+      "source": "block/dispenser_front.png",
+      "tileX": 14,
+      "tileY": 2
+    },
+    {
+      "source": "block/sponge.png",
+      "tileX": 0,
+      "tileY": 3
+    },
+    {
+      "source": "block/glass.png",
+      "tileX": 1,
+      "tileY": 3
+    },
+    {
+      "source": "block/diamond_ore.png",
+      "tileX": 2,
+      "tileY": 3
+    },
+    {
+      "source": "block/redstone_ore.png",
+      "tileX": 3,
+      "tileY": 3
+    },
+    {
+      "source": "block/oak_leaves.png",
+      "tileX": 4,
+      "tileY": 3
+    },
+    {
+      "source": "block/oak_leaves.png",
+      "tileX": 5,
+      "tileY": 3
+    },
+    {
+      "source": "block/dead_bush.png",
+      "tileX": 7,
+      "tileY": 3
+    },
+    {
+      "source": "block/fern.png",
+      "tileX": 8,
+      "tileY": 3
+    },
+    {
+      "source": "block/crafting_table_side.png",
+      "tileX": 11,
+      "tileY": 3
+    },
+    {
+      "source": "block/crafting_table_front.png",
+      "tileX": 12,
+      "tileY": 3
+    },
+    {
+      "source": "block/furnace_front_on.png",
+      "tileX": 13,
+      "tileY": 3
+    },
+    {
+      "source": "block/furnace_top.png",
+      "tileX": 14,
+      "tileY": 3
+    },
+    {
+      "source": "block/spruce_sapling.png",
+      "tileX": 15,
+      "tileY": 3
+    },
+    {
+      "source": "block/white_wool.png",
+      "tileX": 0,
+      "tileY": 4
+    },
+    {
+      "source": "block/spawner.png",
+      "tileX": 1,
+      "tileY": 4
+    },
+    {
+      "source": "block/snow.png",
+      "tileX": 2,
+      "tileY": 4
+    },
+    {
+      "source": "block/ice.png",
+      "tileX": 3,
+      "tileY": 4
+    },
+    {
+      "source": "block/grass_block_snow.png",
+      "tileX": 4,
+      "tileY": 4
+    },
+    {
+      "source": "block/cactus_top.png",
+      "tileX": 5,
+      "tileY": 4
+    },
+    {
+      "source": "block/cactus_side.png",
+      "tileX": 6,
+      "tileY": 4
+    },
+    {
+      "source": "block/cactus_bottom.png",
+      "tileX": 7,
+      "tileY": 4
+    },
+    {
+      "source": "block/clay.png",
+      "tileX": 8,
+      "tileY": 4
+    },
+    {
+      "source": "block/sugar_cane.png",
+      "tileX": 9,
+      "tileY": 4
+    },
+    {
+      "source": "block/jukebox_side.png",
+      "tileX": 10,
+      "tileY": 4
+    },
+    {
+      "source": "block/jukebox_top.png",
+      "tileX": 11,
+      "tileY": 4
+    },
+    {
+      "source": "block/birch_sapling.png",
+      "tileX": 15,
+      "tileY": 4
+    },
+    {
+      "source": "block/torch.png",
+      "tileX": 0,
+      "tileY": 5
+    },
+    {
+      "source": "block/oak_door_top.png",
+      "tileX": 1,
+      "tileY": 5
+    },
+    {
+      "source": "block/iron_door_top.png",
+      "tileX": 2,
+      "tileY": 5
+    },
+    {
+      "source": "block/ladder.png",
+      "tileX": 3,
+      "tileY": 5
+    },
+    {
+      "source": "block/oak_trapdoor.png",
+      "tileX": 4,
+      "tileY": 5
+    },
+    {
+      "source": "block/farmland_moist.png",
+      "tileX": 6,
+      "tileY": 5
+    },
+    {
+      "source": "block/farmland.png",
+      "tileX": 7,
+      "tileY": 5
+    },
+    {
+      "source": "block/wheat_stage0.png",
+      "tileX": 8,
+      "tileY": 5
+    },
+    {
+      "source": "block/wheat_stage1.png",
+      "tileX": 9,
+      "tileY": 5
+    },
+    {
+      "source": "block/wheat_stage2.png",
+      "tileX": 10,
+      "tileY": 5
+    },
+    {
+      "source": "block/wheat_stage3.png",
+      "tileX": 11,
+      "tileY": 5
+    },
+    {
+      "source": "block/wheat_stage4.png",
+      "tileX": 12,
+      "tileY": 5
+    },
+    {
+      "source": "block/wheat_stage5.png",
+      "tileX": 13,
+      "tileY": 5
+    },
+    {
+      "source": "block/wheat_stage6.png",
+      "tileX": 14,
+      "tileY": 5
+    },
+    {
+      "source": "block/wheat_stage7.png",
+      "tileX": 15,
+      "tileY": 5
+    },
+    {
+      "source": "block/lever.png",
+      "tileX": 0,
+      "tileY": 6
+    },
+    {
+      "source": "block/oak_door_bottom.png",
+      "tileX": 1,
+      "tileY": 6
+    },
+    {
+      "source": "block/iron_door_bottom.png",
+      "tileX": 2,
+      "tileY": 6
+    },
+    {
+      "source": "block/redstone_torch.png",
+      "tileX": 3,
+      "tileY": 6
+    },
+    {
+      "source": "block/pumpkin_top.png",
+      "tileX": 6,
+      "tileY": 6
+    },
+    {
+      "source": "block/netherrack.png",
+      "tileX": 7,
+      "tileY": 6
+    },
+    {
+      "source": "block/soul_sand.png",
+      "tileX": 8,
+      "tileY": 6
+    },
+    {
+      "source": "block/glowstone.png",
+      "tileX": 9,
+      "tileY": 6
+    },
+    {
+      "source": "block/piston_top_sticky.png",
+      "tileX": 10,
+      "tileY": 6
+    },
+    {
+      "source": "block/piston_top.png",
+      "tileX": 11,
+      "tileY": 6
+    },
+    {
+      "source": "block/piston_side.png",
+      "tileX": 12,
+      "tileY": 6
+    },
+    {
+      "source": "block/piston_bottom.png",
+      "tileX": 13,
+      "tileY": 6
+    },
+    {
+      "source": "block/piston_inner.png",
+      "tileX": 14,
+      "tileY": 6
+    },
+    {
+      "source": "block/rail_corner.png",
+      "tileX": 0,
+      "tileY": 7
+    },
+    {
+      "source": "block/black_wool.png",
+      "tileX": 1,
+      "tileY": 7
+    },
+    {
+      "source": "block/gray_wool.png",
+      "tileX": 2,
+      "tileY": 7
+    },
+    {
+      "source": "block/redstone_torch_off.png",
+      "tileX": 3,
+      "tileY": 7
+    },
+    {
+      "source": "block/spruce_log.png",
+      "tileX": 4,
+      "tileY": 7
+    },
+    {
+      "source": "block/birch_log.png",
+      "tileX": 5,
+      "tileY": 7
+    },
+    {
+      "source": "block/pumpkin_side.png",
+      "tileX": 6,
+      "tileY": 7
+    },
+    {
+      "source": "block/carved_pumpkin.png",
+      "tileX": 7,
+      "tileY": 7
+    },
+    {
+      "source": "block/jack_o_lantern.png",
+      "tileX": 8,
+      "tileY": 7
+    },
+    {
+      "source": "block/cake_top.png",
+      "tileX": 9,
+      "tileY": 7
+    },
+    {
+      "source": "block/cake_side.png",
+      "tileX": 10,
+      "tileY": 7
+    },
+    {
+      "source": "block/cake_inner.png",
+      "tileX": 11,
+      "tileY": 7
+    },
+    {
+      "source": "block/cake_bottom.png",
+      "tileX": 12,
+      "tileY": 7
+    },
+    {
+      "source": "block/rail.png",
+      "tileX": 0,
+      "tileY": 8
+    },
+    {
+      "source": "block/red_wool.png",
+      "tileX": 1,
+      "tileY": 8
+    },
+    {
+      "source": "block/pink_wool.png",
+      "tileX": 2,
+      "tileY": 8
+    },
+    {
+      "source": "block/repeater.png",
+      "tileX": 3,
+      "tileY": 8
+    },
+    {
+      "source": "block/spruce_leaves.png",
+      "tileX": 4,
+      "tileY": 8
+    },
+    {
+      "source": "block/spruce_leaves.png",
+      "tileX": 5,
+      "tileY": 8
+    },
+    /*
+    {
+      "source": "item/cake.png",
+      "tileX": 12,
+      "tileY": 8
+    },
+    */
+    {
+      "source": "block/lapis_block.png",
+      "tileX": 0,
+      "tileY": 9
+    },
+    {
+      "source": "block/green_wool.png",
+      "tileX": 1,
+      "tileY": 9
+    },
+    {
+      "source": "block/lime_wool.png",
+      "tileX": 2,
+      "tileY": 9
+    },
+    {
+      "source": "block/repeater_on.png",
+      "tileX": 3,
+      "tileY": 9
+    },
+    {
+      "source": "block/lapis_ore.png",
+      "tileX": 0,
+      "tileY": 10
+    },
+    {
+      "source": "block/brown_wool.png",
+      "tileX": 1,
+      "tileY": 10
+    },
+    {
+      "source": "block/yellow_wool.png",
+      "tileX": 2,
+      "tileY": 10
+    },
+    {
+      "source": "block/powered_rail.png",
+      "tileX": 3,
+      "tileY": 10
+    },
+    {
+      "source": "block/redstone_dust_line0.png",
+      "tileX": 4,
+      "tileY": 10
+    },
+    {
+      "source": "block/redstone_dust_line0.png",
+      "tileX": 4,
+      "tileY": 10,
+      "rotation": 90
+    },
+    {
+      "source": "block/redstone_dust_dot.png",
+      "tileX": 4,
+      "tileY": 10
+    },
+    {
+      "source": "block/redstone_dust_line0.png",
+      "tileX": 5,
+      "tileY": 10,
+      "rotation": 90
+    },
+    {
+      "source": "block/sandstone_top.png",
+      "tileX": 0,
+      "tileY": 11
+    },
+    {
+      "source": "block/blue_wool.png",
+      "tileX": 1,
+      "tileY": 11
+    },
+    {
+      "source": "block/light_blue_wool.png",
+      "tileX": 2,
+      "tileY": 11
+    },
+    {
+      "source": "block/powered_rail_on.png",
+      "tileX": 3,
+      "tileY": 11
+    },
+    {
+      "source": "block/sandstone.png",
+      "tileX": 0,
+      "tileY": 12
+    },
+    {
+      "source": "block/purple_wool.png",
+      "tileX": 1,
+      "tileY": 12
+    },
+    {
+      "source": "block/magenta_wool.png",
+      "tileX": 2,
+      "tileY": 12
+    },
+    {
+      "source": "block/detector_rail.png",
+      "tileX": 3,
+      "tileY": 12
+    },
+    {
+      "source": "block/sandstone_bottom.png",
+      "tileX": 0,
+      "tileY": 13
+    },
+    {
+      "source": "block/cyan_wool.png",
+      "tileX": 1,
+      "tileY": 13
+    },
+    {
+      "source": "block/orange_wool.png",
+      "tileX": 2,
+      "tileY": 13
+    },
+    {
+      "source": "block/light_gray_wool.png",
+      "tileX": 1,
+      "tileY": 14
+    },
+    {
+      "source": "block/destroy_stage_0.png",
+      "tileX": 0,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_1.png",
+      "tileX": 1,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_2.png",
+      "tileX": 2,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_3.png",
+      "tileX": 3,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_4.png",
+      "tileX": 4,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_5.png",
+      "tileX": 5,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_6.png",
+      "tileX": 6,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_7.png",
+      "tileX": 7,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_8.png",
+      "tileX": 8,
+      "tileY": 15
+    },
+    {
+      "source": "block/destroy_stage_9.png",
+      "tileX": 9,
+      "tileY": 15
+    },
+    {
+      "source": "block/chest_top.png",
+      "tileX": 9,
+      "tileY": 1
+    },
+    {
+      "source": "block/chest_side.png",
+      "tileX": 9,
+      "tileY": 2
+    },
+    {
+      "source": "block/chest_front.png",
+      "tileX": 9,
+      "tileY": 2
+    },
+    {
+      "source": "block/double_front_left.png",
+      "tileX": 9,
+      "tileY": 2
+    },
+    {
+      "source": "block/double_front_right.png",
+      "tileX": 10,
+      "tileY": 2
+    },
+    {
+      "source": "block/double_back_left.png",
+      "tileX": 9,
+      "tileY": 3
+    },
+    {
+      "source": "block/double_back_right.png",
+      "tileX": 10,
+      "tileY": 3
+    },
+    {
+      "source": "block/bed_bottom.png",
+      "tileX": 6,
+      "tileY": 8
+    },
+    {
+      "source": "block/bed_top.png",
+      "tileX": 7,
+      "tileY": 8
+    },
+    {
+      "source": "block/bed_bottom_front.png",
+      "tileX": 5,
+      "tileY": 9
+    },
+    {
+      "source": "block/bed_bottom_side.png",
+      "tileX": 6,
+      "tileY": 9
+    },
+    {
+      "source": "block/bed_top_side.png",
+      "tileX": 7,
+      "tileY": 9
+    },
+    {
+      "source": "block/bed_top_front.png",
+      "tileX": 8,
+      "tileY": 9
+    }
+
+  ]
+}

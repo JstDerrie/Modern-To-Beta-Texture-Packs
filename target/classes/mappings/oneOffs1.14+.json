@@ -1,0 +1,172 @@
+{
+  "files": [
+    {
+      "source": "block/dirt.png",
+      "destination": "gui/background.png"
+    },
+    {
+      "source": "../../../pack.png",
+      "destination": "pack.png"
+    },
+    {
+      "source": "entity/minecart/minecart.png",
+      "destination": "item/cart.png"
+    },
+    {
+      "source": "entity/chest/normal.png",
+      "destination": "item/chest.png"
+    },
+    {
+      "source": "entity/experience/experience_orb.png",
+      "destination": "item/xporb.png"
+    },
+    {
+      "source": "colormap/foliage.png",
+      "destination": "misc/foliagecolor.png"
+    },
+    {
+      "source": "particle/footprint.png",
+      "destination": "misc/footprint.png"
+    },
+    {
+      "source": "colormap/grass.png",
+      "destination": "misc/grasscolor-smooth.png"
+    },
+    {
+      "source": "misc/pumpkinblur.png",
+      "destination": "misc/pumpkinblur.png"
+    },
+    {
+      "source": "misc/shadow.png",
+      "destination": "misc/shadow.png"
+    },
+    {
+      "source": "misc/vignette.png",
+      "destination": "misc/vignette.png"
+    },
+    {
+      "source": "entity/cow/cow.png",
+      "destination": "mob/cow.png"
+    },
+    {
+      "source": "entity/creeper/creeper.png",
+      "destination": "mob/creeper.png"
+    },
+    {
+      "source": "entity/ghast/ghast.png",
+      "destination": "mob/ghast/ghast.png"
+    },
+    {
+      "source": "entity/ghast/ghast_shooting.png",
+      "destination": "mob/ghast_fire.png"
+    },
+    {
+      "source": "entity/pig/pig.png",
+      "destination": "mob/pig.png"
+    },
+    {
+      "source": "entity/pig/pig_saddle.png",
+      "destination": "mob/saddle.png"
+    },
+    {
+      "source": "entity/piglin/zombified_piglin.png",
+      "destination": "mob/pigzombie.png"
+    },
+    {
+      "source": "entity/sheep/sheep.png",
+      "destination": "mob/sheep.png"
+    },
+    {
+      "source": "entity/sheep/sheep_fur.png",
+      "destination": "mob/sheep_fur.png"
+    },
+    {
+      "source": "entity/skeleton/skeleton.png",
+      "destination": "mob/skeleton.png"
+    },
+    {
+      "source": "entity/slime/slime.png",
+      "destination": "mob/slime.png"
+    },
+    {
+      "source": "entity/spider/spider.png",
+      "destination": "mob/spider.png"
+    },
+    {
+      "source": "entity/squid/squid.png",
+      "destination": "mob/squid.png"
+    },
+    {
+      "source": "entity/wolf/wolf.png",
+      "destination": "mob/wolf.png"
+    },
+    {
+      "source": "entity/wolf/wolf_angry.png",
+      "destination": "mob/wolf_angry.png"
+    },
+    {
+      "source": "entity/wolf/wolf_tame.png",
+      "destination": "mob/wolf_tame.png"
+    },
+    {
+      "source": "entity/zombie/zombie.png",
+      "destination": "mob/zombie.png"
+    },
+    {
+      "source": "entity/silverfish.png",
+      "destination": "mob/silverfish.png"
+    },
+    {
+      "source": "environment/celestial/moon/full_moon.png",
+      "destination": "terrain/moon.png"
+    },
+    {
+      "source": "environment/celestial/sun.png",
+      "destination": "terrain/sun.png"
+    },
+    {
+      "source": "entity/player/wide/steve.png",
+      "destination": "mob/char.png"
+    },
+    {
+      "source": "models/armor/chainmail_layer_1.png",
+      "destination": "armor/chain_1.png"
+    },
+    {
+      "source": "models/armor/chainmail_layer_2.png",
+      "destination": "armor/chain_2.png"
+    },
+    {
+      "source": "models/armor/diamond_layer_1.png",
+      "destination": "armor/diamond_1.png"
+    },
+    {
+      "source": "models/armor/diamond_layer_2.png",
+      "destination": "armor/diamond_2.png"
+    },
+    {
+      "source": "models/armor/gold_layer_1.png",
+      "destination": "armor/gold_layer_2.png"
+    },
+    {
+      "source": "models/armor/iron_layer_1.png",
+      "destination": "armor/iron_1.png"
+    },
+    {
+      "source": "models/armor/iron_layer_2.png",
+      "destination": "armor/iron_2.png"
+    },
+    {
+      "source": "models/armor/leather_layer_1.png",
+      "destination": "armor/cloth_1.png"
+    },
+    {
+      "source": "models/armor/leather_layer_2.png",
+      "destination": "armor/cloth_2.png"
+    },
+    {
+      "source": "entity/arrow.png",
+      "destination": "item/arrows.png"
+    }
+  ]
+}

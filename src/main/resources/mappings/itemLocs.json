@@ -1,0 +1,675 @@
+{
+  "version": "beta_1_7_3",
+  "textures": [
+    {
+      "source": "item/leather_helmet.png",
+      "tileX": 0,
+      "tileY": 0
+    },
+    {
+      "source": "item/leather_helmet_overlay.png",
+      "tileX": 0,
+      "tileY": 0
+    },
+    {
+      "source": "item/chainmail_helmet.png",
+      "tileX": 1,
+      "tileY": 0
+    },
+    {
+      "source": "item/iron_helmet.png",
+      "tileX": 2,
+      "tileY": 0
+    },
+    {
+      "source": "item/diamond_helmet.png",
+      "tileX": 3,
+      "tileY": 0
+    },
+    {
+      "source": "item/golden_helmet.png",
+      "tileX": 4,
+      "tileY": 0
+    },
+    {
+      "source": "item/flint_and_steel.png",
+      "tileX": 5,
+      "tileY": 0
+    },
+    {
+      "source": "item/flint.png",
+      "tileX": 6,
+      "tileY": 0
+    },
+    {
+      "source": "item/coal.png",
+      "tileX": 7,
+      "tileY": 0
+    },
+    {
+      "source": "item/string.png",
+      "tileX": 8,
+      "tileY": 0
+    },
+    {
+      "source": "item/wheat_seeds.png",
+      "tileX": 9,
+      "tileY": 0
+    },
+    {
+      "source": "item/apple.png",
+      "tileX": 10,
+      "tileY": 0
+    },
+    {
+      "source": "item/golden_apple.png",
+      "tileX": 11,
+      "tileY": 0
+    },
+    {
+      "source": "item/egg.png",
+      "tileX": 12,
+      "tileY": 0
+    },
+    {
+      "source": "item/sugar.png",
+      "tileX": 13,
+      "tileY": 0
+    },
+    {
+      "source": "item/snowball.png",
+      "tileX": 14,
+      "tileY": 0
+    },
+    {
+      "source": "item/empty_armor_slot_helmet.png",
+      "tileX": 15,
+      "tileY": 0
+    },
+    {
+      "source": "item/leather_chestplate.png",
+      "tileX": 0,
+      "tileY": 1
+    },
+    {
+      "source": "item/leather_chestplate_overlay.png",
+      "tileX": 0,
+      "tileY": 1
+    },
+    {
+      "source": "item/chainmail_chestplate.png",
+      "tileX": 1,
+      "tileY": 1
+    },
+    {
+      "source": "item/iron_chestplate.png",
+      "tileX": 2,
+      "tileY": 1
+    },
+    {
+      "source": "item/diamond_chestplate.png",
+      "tileX": 3,
+      "tileY": 1
+    },
+    {
+      "source": "item/golden_chestplate.png",
+      "tileX": 4,
+      "tileY": 1
+    },
+    {
+      "source": "item/bow.png",
+      "tileX": 5,
+      "tileY": 1
+    },
+    {
+      "source": "item/brick.png",
+      "tileX": 6,
+      "tileY": 1
+    },
+    {
+      "source": "item/iron_ingot.png",
+      "tileX": 7,
+      "tileY": 1
+    },
+    {
+      "source": "item/feather.png",
+      "tileX": 8,
+      "tileY": 1
+    },
+    {
+      "source": "item/wheat.png",
+      "tileX": 9,
+      "tileY": 1
+    },
+    {
+      "source": "item/painting.png",
+      "tileX": 10,
+      "tileY": 1
+    },
+    {
+      "source": "item/sugar_cane.png",
+      "tileX": 11,
+      "tileY": 1
+    },{
+      "source": "item/bone.png",
+      "tileX": 12,
+      "tileY": 1
+    },
+    {
+      "source": "item/cake.png",
+      "tileX": 13,
+      "tileY": 1
+    },
+    {
+      "source": "item/slime_ball.png",
+      "tileX": 14,
+      "tileY": 1
+    },
+    {
+      "source": "item/empty_armor_slot_chestplate.png",
+      "tileX": 15,
+      "tileY": 1
+    },
+    {
+      "source": "item/leather_leggings.png",
+      "tileX": 0,
+      "tileY": 2
+    },
+    {
+      "source": "item/leather_leggings_overlay.png",
+      "tileX": 0,
+      "tileY": 2
+    },
+    {
+      "source": "item/chainmail_leggings.png",
+      "tileX": 1,
+      "tileY": 2
+    },
+    {
+      "source": "item/iron_leggings.png",
+      "tileX": 2,
+      "tileY": 2
+    },
+    {
+      "source": "item/diamond_leggings.png",
+      "tileX": 3,
+      "tileY": 2
+    },
+    {
+      "source": "item/golden_leggings.png",
+      "tileX": 4,
+      "tileY": 2
+    },
+    {
+      "source": "item/arrow.png",
+      "tileX": 5,
+      "tileY": 2
+    },
+    {
+      "source": "item/gold_ingot.png",
+      "tileX": 7,
+      "tileY": 2
+    },
+    {
+      "source": "item/gunpowder.png",
+      "tileX": 8,
+      "tileY": 2
+    },
+    {
+      "source": "item/bread.png",
+      "tileX": 9,
+      "tileY": 2
+    },
+    {
+      "source": "item/oak_sign.png",
+      "tileX": 10,
+      "tileY": 2
+    },
+    {
+      "source": "item/oak_door.png",
+      "tileX": 11,
+      "tileY": 2
+    },
+    {
+      "source": "item/iron_door.png",
+      "tileX": 12,
+      "tileY": 2
+    },
+    {
+      "source": "item/bed.png",
+      "tileX": 13,
+      "tileY": 2
+    },
+    {
+      "source": "item/empty_armor_slot_leggings.png",
+      "tileX": 15,
+      "tileY": 2
+    },
+    {
+      "source": "item/leather_boots.png",
+      "tileX": 0,
+      "tileY": 3
+    },
+    {
+      "source": "item/leather_boots_overlay.png",
+      "tileX": 0,
+      "tileY": 3
+    },
+    {
+      "source": "item/chainmail_boots.png",
+      "tileX": 1,
+      "tileY": 3
+    },
+    {
+      "source": "item/iron_boots.png",
+      "tileX": 2,
+      "tileY": 3
+    },
+    {
+      "source": "item/diamond_boots.png",
+      "tileX": 3,
+      "tileY": 3
+    },
+    {
+      "source": "item/golden_boots.png",
+      "tileX": 4,
+      "tileY": 3
+    },
+    {
+      "source": "item/stick.png",
+      "tileX": 5,
+      "tileY": 3
+    },
+    {
+      "source": "item/compass_00.png",
+      "tileX": 6,
+      "tileY": 3
+    },
+    {
+      "source": "item/diamond.png",
+      "tileX": 7,
+      "tileY": 3
+    },
+    {
+      "source": "item/redstone.png",
+      "tileX": 8,
+      "tileY": 3
+    },
+    {
+      "source": "item/clay_ball.png",
+      "tileX": 9,
+      "tileY": 3
+    },
+    {
+      "source": "item/paper.png",
+      "tileX": 10,
+      "tileY": 3
+    },
+    {
+      "source": "item/book.png",
+      "tileX": 11,
+      "tileY": 3
+    },
+    {
+      "source": "item/filled_map.png",
+      "tileX": 12,
+      "tileY": 3
+    },
+    {
+      "source": "item/filled_map_markings.png",
+      "tileX": 12,
+      "tileY": 3
+    },
+    {
+      "source": "item/pumpkin_seeds.png",
+      "tileX": 13,
+      "tileY": 3
+    },
+    {
+      "source": "item/melon_seeds.png",
+      "tileX": 14,
+      "tileY": 3
+    },
+    {
+      "source": "item/empty_armor_slot_boots.png",
+      "tileX": 15,
+      "tileY": 3
+    },
+    {
+      "source": "item/wooden_sword.png",
+      "tileX": 0,
+      "tileY": 4
+    },
+    {
+      "source": "item/stone_sword.png",
+      "tileX": 1,
+      "tileY": 4
+    },
+    {
+      "source": "item/iron_sword.png",
+      "tileX": 2,
+      "tileY": 4
+    },
+    {
+      "source": "item/diamond_sword.png",
+      "tileX": 3,
+      "tileY": 4
+    },
+    {
+      "source": "item/golden_sword.png",
+      "tileX": 4,
+      "tileY": 4
+    },
+    {
+      "source": "item/fishing_rod.png",
+      "tileX": 5,
+      "tileY": 4
+    },
+    {
+      "source": "item/clock_00.png",
+      "tileX": 6,
+      "tileY": 4
+    },
+    {
+      "source": "item/bowl.png",
+      "tileX": 7,
+      "tileY": 4
+    },
+    {
+      "source": "item/mushroom_stew.png",
+      "tileX": 8,
+      "tileY": 4
+    },
+    {
+      "source": "item/glowstone_dust.png",
+      "tileX": 9,
+      "tileY": 4
+    },
+    {
+      "source": "item/bucket.png",
+      "tileX": 10,
+      "tileY": 4
+    },
+    {
+      "source": "item/water_bucket.png",
+      "tileX": 11,
+      "tileY": 4
+    },
+    {
+      "source": "item/lava_bucket.png",
+      "tileX": 12,
+      "tileY": 4
+    },
+    {
+      "source": "item/milk_bucket.png",
+      "tileX": 13,
+      "tileY": 4
+    },
+    {
+      "source": "item/ink_sac.png",
+      "tileX": 14,
+      "tileY": 4
+    },
+    {
+      "source": "item/gray_dye.png",
+      "tileX": 15,
+      "tileY": 4
+    },
+    {
+      "source": "item/wooden_shovel.png",
+      "tileX": 0,
+      "tileY": 5
+    },
+    {
+      "source": "item/stone_shovel.png",
+      "tileX": 1,
+      "tileY": 5
+    },
+    {
+      "source": "item/iron_shovel.png",
+      "tileX": 2,
+      "tileY": 5
+    },
+    {
+      "source": "item/diamond_shovel.png",
+      "tileX": 3,
+      "tileY": 5
+    },
+    {
+      "source": "item/golden_shovel.png",
+      "tileX": 4,
+      "tileY": 5
+    },
+    {
+      "source": "item/fishing_rod_cast.png",
+      "tileX": 5,
+      "tileY": 5
+    },
+    {
+      "source": "item/repeater.png",
+      "tileX": 6,
+      "tileY": 5
+    },
+    {
+      "source": "item/porkchop.png",
+      "tileX": 7,
+      "tileY": 5
+    },
+    {
+      "source": "item/cooked_porkchop.png",
+      "tileX": 8,
+      "tileY": 5
+    },
+    {
+      "source": "item/cod.png",
+      "tileX": 9,
+      "tileY": 5
+    },
+    {
+      "source": "item/cooked_cod.png",
+      "tileX": 10,
+      "tileY": 5
+    },
+    {
+      "source": "item/rotten_flesh.png",
+      "tileX": 11,
+      "tileY": 5
+    },
+    {
+      "source": "item/cookie.png",
+      "tileX": 12,
+      "tileY": 5
+    },
+    {
+      "source": "item/shears.png",
+      "tileX": 13,
+      "tileY": 5
+    },
+    {
+      "source": "item/red_dye.png",
+      "tileX": 14,
+      "tileY": 5
+    },
+    {
+      "source": "item/pink_dye.png",
+      "tileX": 15,
+      "tileY": 5
+    },
+    {
+      "source": "item/wooden_pickaxe.png",
+      "tileX": 0,
+      "tileY": 6
+    },
+    {
+      "source": "item/stone_pickaxe.png",
+      "tileX": 1,
+      "tileY": 6
+    },
+    {
+      "source": "item/iron_pickaxe.png",
+      "tileX": 2,
+      "tileY": 6
+    },
+    {
+      "source": "item/diamond_pickaxe.png",
+      "tileX": 3,
+      "tileY": 6
+    },
+    {
+      "source": "item/golden_pickaxe.png",
+      "tileX": 4,
+      "tileY": 6
+    },
+    {
+      "source": "item/leather.png",
+      "tileX": 7,
+      "tileY": 6
+    },
+    {
+      "source": "item/saddle.png",
+      "tileX": 8,
+      "tileY": 6
+    },
+    {
+      "source": "item/green_dye.png",
+      "tileX": 14,
+      "tileY": 6
+    },
+    {
+      "source": "item/lime_dye.png",
+      "tileX": 15,
+      "tileY": 6
+    },
+    {
+      "source": "item/wooden_axe.png",
+      "tileX": 0,
+      "tileY": 7
+    },
+    {
+      "source": "item/stone_axe.png",
+      "tileX": 1,
+      "tileY": 7
+    },
+    {
+      "source": "item/iron_axe.png",
+      "tileX": 2,
+      "tileY": 7
+    },
+    {
+      "source": "item/diamond_axe.png",
+      "tileX": 3,
+      "tileY": 7
+    },
+    {
+      "source": "item/golden_axe.png",
+      "tileX": 4,
+      "tileY": 7
+    },
+    {
+      "source": "item/cocoa_beans.png",
+      "tileX": 14,
+      "tileY": 7
+    },
+    {
+      "source": "item/yellow_dye.png",
+      "tileX": 15,
+      "tileY": 7
+    },
+    {
+      "source": "item/wooden_hoe.png",
+      "tileX": 0,
+      "tileY": 8
+    },
+    {
+      "source": "item/stone_hoe.png",
+      "tileX": 1,
+      "tileY": 8
+    },
+    {
+      "source": "item/iron_hoe.png",
+      "tileX": 2,
+      "tileY": 8
+    },
+    {
+      "source": "item/diamond_hoe.png",
+      "tileX": 3,
+      "tileY": 8
+    },
+    {
+      "source": "item/golden_hoe.png",
+      "tileX": 4,
+      "tileY": 8
+    },
+    {
+      "source": "item/minecart.png",
+      "tileX": 7,
+      "tileY": 8
+    },
+    {
+      "source": "item/oak_boat.png",
+      "tileX": 8,
+      "tileY": 8
+    },
+    {
+      "source": "item/lapis_lazuli.png",
+      "tileX": 14,
+      "tileY": 8
+    },
+    {
+      "source": "item/light_blue_dye.png",
+      "tileX": 15,
+      "tileY": 8
+    },
+    {
+      "source": "item/chest_minecart.png",
+      "tileX": 7,
+      "tileY": 9
+    },
+    {
+      "source": "item/purple_dye.png",
+      "tileX": 14,
+      "tileY": 9
+    },
+    {
+      "source": "item/magenta_dye.png",
+      "tileX": 15,
+      "tileY": 9
+    },
+    {
+      "source": "item/furnace_minecart.png",
+      "tileX": 7,
+      "tileY": 10
+    },
+    {
+      "source": "item/cyan_dye.png",
+      "tileX": 14,
+      "tileY": 10
+    },
+    {
+      "source": "item/orange_dye.png",
+      "tileX": 15,
+      "tileY": 10
+    },
+    {
+      "source": "item/gray_dye.png",
+      "tileX": 14,
+      "tileY": 11
+    },
+    {
+      "source": "item/bone_meal.png",
+      "tileX": 15,
+      "tileY": 11
+    },
+    {
+      "source": "item/music_disc_13.png",
+      "tileX": 0,
+      "tileY": 15
+    },
+    {
+      "source": "item/music_disc_cat.png",
+      "tileX": 1,
+      "tileY": 15
+    }
+
+  ]
+}

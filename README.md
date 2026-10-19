@@ -2,6 +2,8 @@ THANKS FOR GIVING THIS THING A SHOT!
 ==========
 IMPORTANT
 ==========
+You need to run the released build with JAVA 17 OR NEWER!
+
 When the program is initially launched, you will get 4 buttons -
 A "Select Texture Folder" button - SELECT THE "texture" FOLDER FROM THE PACK YOU WANT TO CONVERT.
 A "Select Output Folder" button - Select the folder you want to be an output for the pack/
